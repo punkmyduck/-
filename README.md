@@ -1,4 +1,4 @@
-# Тестовое задание на вакансию Junior C# developer в Монополия
+# Тестовое задание на вакансию .NET-разработчик (junior/intern) в Byndysoft
 Исходный код программы находится в [-/Test Task/Program.cs](https://github.com/punkmyduck/-/blob/main/Test%20Task/Program.cs)
 
 В программе содержатся следующие элементы:
