@@ -14,3 +14,6 @@
 - Test_LargeArray : тест на массиве из 100.000.000 элементов;
 - Test_LessThanTwoElements : тест на массиве из одного элемента, проверка на корректное выбрасывание исключения;
 - Test_UnitializedArray : тест на неинициализированном массиве, проверка на корректное выбрасывание исключения.
+
+Результаты проведения тестов:
+![Скриншот вывода консоли с результатами тестов](https://raw.githubusercontent.com/punkmyduck/-/refs/heads/main/%D0%A0%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D1%8B%20%D1%82%D0%B5%D1%81%D1%82%D0%BE%D0%B2.bmp?token=GHSAT0AAAAAADB2UNU2CHYPLOYAED4IPQN62A2IMEA)
